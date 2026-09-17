@@ -66,9 +66,9 @@ The app will be served locally at [http://localhost:1234](http://localhost:1234)
 3. Click **Issue Token**.
 4. Copy the generated **Token xUDT args**. This value identifies the issued token and is required in the next steps.
 
-![xUDT dApp](images/xUDT_script_running.png)
+![xUDT dApp](images/Running_the_Dapp.png.png)
 
-![Issued token result](images/Issue_custom_token_result.png)
+![Issued token result](images/Querying_custom_token.png)
 
 ### Step 2: View the token cells
 
@@ -76,7 +76,7 @@ The app will be served locally at [http://localhost:1234](http://localhost:1234)
 2. Click **Query Issued Token**.
 3. Review the matching token cells, including the token amount, xUDT args, and the holder lock script args.
 
-![View custom token](images/View_custom_token.png)
+![View custom token](images/Creating_custom_xUDT.png.png)
 
 ### Step 3: Transfer the token
 
@@ -86,7 +86,7 @@ The app will be served locally at [http://localhost:1234](http://localhost:1234)
 4. Provide the receiver's devnet address.
 5. Click **Transfer Custom Token** and inspect the resulting transaction.
 
-![Transfer custom token](images/Transfer_custom_token.png)
+![Transfer custom token](images/Transferring_tokens_another_account.png)
 
 ## Project Scripts
 
